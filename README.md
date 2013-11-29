@@ -19,5 +19,7 @@ To execute tests and get report, you must install and configure your environment
 1. Install other dependencies with `npm install`
 1. Now you can run tests using `npm test`
 
-Result xml will be in `report/` directory. Furthermore, if you want html report, you need to build this project on jenkins with [allure-jenkins-plugin].
+Result xml will be in `report/` directory. If you see an message about failed tests, don't worry we specially made some failed tests  so you can see an error representation in report.
+
+Furthermore, if you want html report, you need to build this project on jenkins with [allure-jenkins-plugin].
 
