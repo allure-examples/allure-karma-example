@@ -18,7 +18,7 @@
     "karma-requirejs": "~0.2.0",
     "karma-coffee-preprocessor": "~0.1.1",
     "karma-phantomjs-launcher": "~0.1.1",
-    "karma": "~0.10.6",
+    "karma": "~5.0.1",
     "karma-allure-reporter": "~1.0.0"
   }
 }
